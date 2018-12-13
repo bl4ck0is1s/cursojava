@@ -1,0 +1,9 @@
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/domain/AlumnoDomain.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/config/DatabaseConfig.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/config/Config.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/TallerApplication.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/dao/impl/AlumnoDAOImpl.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/config/MainConfig.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/service/AlumnoService.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/dao/AlumnoDAO.java
+/Users/yuls/cursoJava/cursojava/src/main/java/mx/edu/itst/taller/controller/AlumnoController.java

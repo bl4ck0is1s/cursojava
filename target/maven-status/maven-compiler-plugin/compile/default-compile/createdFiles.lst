@@ -1,0 +1,9 @@
+mx/edu/itst/taller/domain/AlumnoDomain.class
+mx/edu/itst/taller/TallerApplication.class
+mx/edu/itst/taller/service/AlumnoService.class
+mx/edu/itst/taller/config/MainConfig.class
+mx/edu/itst/taller/config/DatabaseConfig.class
+mx/edu/itst/taller/controller/AlumnoController.class
+mx/edu/itst/taller/dao/impl/AlumnoDAOImpl.class
+mx/edu/itst/taller/config/Config.class
+mx/edu/itst/taller/dao/AlumnoDAO.class

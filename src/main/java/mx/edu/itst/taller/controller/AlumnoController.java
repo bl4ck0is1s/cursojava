@@ -37,4 +37,12 @@ public class AlumnoController {
     	return 	alumnosService.save(input).get();
 
     }
+    
+    @RequestMapping(value = "alumno/edit", method = RequestMethod.POST, produces = "application/json")
+    public AlumnoDomain edit(HttpServletResponse response, @RequestBody Map<String, Object> input
+                        ){
+    	
+    	return 	alumnosService.save(input).get();
+
+    }
 }
